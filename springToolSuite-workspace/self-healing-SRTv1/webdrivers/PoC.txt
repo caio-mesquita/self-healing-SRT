@@ -1,0 +1,11 @@
+28/07
+
+-  Caminhar em paralelo: record/play e IA
+	Entradas do Agente podem ser as entradas do Record/Play
+
+-  Reuniões técnicas para granularizar atividades, visando alocação específica dos profissionais
+
+-  Próximo passo: arquiteturas do Record/Play, com config de ambiente  
+
+
+
